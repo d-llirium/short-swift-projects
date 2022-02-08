@@ -1,5 +1,5 @@
 
-#  [. photo frame]
+# . photo frame
 
 ## RESOURCES:
 . Swift
@@ -9,4 +9,4 @@
 
 ### by d_llirium
 
-![](https://github.com/d-llirium/codecademy/blob/main/Code%20History/CodeHistory.gif?raw=true)
+![](https://github.com/d-llirium/shortProjects/blob/main/PhotoFrame/photoFrame.gif?raw=true)
